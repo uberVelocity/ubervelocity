@@ -1,6 +1,6 @@
 ### Hi there 👋🐧
 
-![Mihai's github stats](https://github-readme-stats.vercel.app/api?username=ubervelocity&count_private=true)
+![Mihai's github stats](https://github-readme-stats.vercel.app/api?username=ubervelocity&count_private=true&theme=dark)
 
 
 <!--
