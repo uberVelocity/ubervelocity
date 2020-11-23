@@ -8,20 +8,7 @@
    <a align="right" href="https://github.com/ubervelocity/Tasker" title="Tasker"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ubervelocity&repo=Tasker&theme=dark"></a>
 </p>
 <br><br>
-<p width="125%" align="center">
-   <a align="left" href="https://github.com/ubervelocity/water-management-dashboard" title="Water Management Dashboard"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ubervelocity&repo=water-management-dashboard&theme=dark"></a>
-   <a align="right" href="https://github.com/ubervelocity/ml-malaria" title="Distributed Map Reduce"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ubervelocity&repo=ml-malaria&theme=dark"></a>
-</p>
-<br><br>
-<p width="100%" align="center">
-   <a align="left" href="https://github.com/ubervelocity/water-management-dashboard" title="Water Management Dashboard"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ubervelocity&repo=water-management-dashboard&theme=dark"></a>
-   <a align="right" href="https://github.com/ubervelocity/ml-malaria" title="Distributed Map Reduce"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ubervelocity&repo=ml-malaria&theme=dark"></a>
-</p>
-<br><br>
-<p width="100%" align="center">
-   <a align="left" href="https://github.com/ubervelocity/water-management-dashboard" title="Water Management Dashboard"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ubervelocity&repo=water-management-dashboard&theme=dark"></a>
-   <a align="right" href="https://github.com/ubervelocity/ml-malaria" title="Distributed Map Reduce"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ubervelocity&repo=ml-malaria&theme=dark"></a>
-</p>
+
 <!--
 **uberVelocity/ubervelocity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
