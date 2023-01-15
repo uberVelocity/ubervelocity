@@ -1,5 +1,4 @@
 ### [Hi there](https://mpai.dev/) 👋🐧
-Doing work on Gitlab at the moment...
 
 ![Mihai's github stats](https://github-readme-stats.vercel.app/api?username=ubervelocity&count_private=true&theme=dark)
 
